@@ -1,0 +1,75 @@
+[
+    {"pId":"01", 
+    "pName":"Water Color",
+   "pImg":"https://i.ibb.co/mttCSBv/1.jpg",
+   "location":"Abashik Ctg",
+   "resalePrice":"5000",
+   "OriginalPrice":"6200",
+    "Use":"1yr"
+
+   },
+   {"pId":"02", 
+    "pName":"Rainbow Color Printing",
+   "pImg":"https://i.ibb.co/gMWg8qR/2.jpg",
+    "location":"Motijheel Shapla Chattar,Dhaka",
+   "resalePrice":"1500",
+      "OriginalPrice":"2450",
+      "Use":"2yrs"
+
+   },
+   {"pId":"03", 
+             "pName":"Late Rose White Out",
+            "pImg":"https://i.ibb.co/sbPmRmm/3.jpg",
+             "location":"New market,Chittagong",
+            "resalePrice":"9800",
+               "OriginalPrice":"14300",
+               "Use":"1yr"
+
+            },
+            {"pId":"04", 
+             "pName":"Old Buddist",
+            "pImg":"https://i.ibb.co/yRMrqSQ/4.jpg",
+             "location":"Dhanmondi,Dhaka",
+            "resalePrice":"2200",
+               "OriginalPrice":"3000",
+               "Use":"8month"
+
+            },
+            {"pId":"05", 
+             "pName":"Rojo Y Negro - Latin",
+            "pImg":"https://i.ibb.co/NKJzkfs/5.jpg",
+             "location":"Chawkbazar , Ctg",
+            "resalePrice":"1250",
+               "OriginalPrice":"1900",
+               "Use":"2yr"
+
+            },
+            {"pId":"06", 
+             "pName":"Terracotta Plant Pots",
+            "pImg":"https://i.ibb.co/RBgW4zh/6.jpg",
+             "location":"Bashundhara City Shopping Complex,panthopoth , Dhaka",
+            "resalePrice":"1150",
+            "OriginalPrice":"1800",
+            "Use":"1yr"
+
+            },
+            {"pId":"07", 
+             "pName":"Terracotta pottery plate",
+            "pImg":"https://cdn.shopify.com/s/files/1/2062/0567/products/Terracotta-Plate-Serendip_1024x1024.jpg?v=1589300417",
+             "location":"Bashundhara City Shopping Complex,panthopoth , Dhaka",
+            "resalePrice":"1150",
+            "OriginalPrice":"1800",
+            "Use":"1yr"
+
+            },
+            {"pId":"08", 
+             "pName":"Terracotta Jar",
+            "pImg":"https://i.ibb.co/nDpyKV6/7.jpg",
+             "location":"Bashundhara City Shopping Complex,panthopoth , Dhaka",
+            "resalePrice":"1150",
+            "OriginalPrice":"1800",
+            "Use":"1yr"
+
+            }
+
+]

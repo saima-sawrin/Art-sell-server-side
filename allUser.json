@@ -1,0 +1,34 @@
+[
+    {
+        "user_id": "01",
+        "name": "Safina",
+        "email": "saf@ina.com",
+        "role":"seller",
+        "status": "",
+        "photoUrl":"https://ibb.co/dQRf05N"
+     
+    
+    },
+    {
+        "user_id": "01",
+        "name": "Anika",
+        "email": "Anika@gmail.com",
+        "role":"Buyer",
+        "status": "",
+        "photoUrl":"https://ibb.co/dQRf05N"
+     
+    
+    },
+    {
+        "user_id": "01",
+        "name": "Ashraf",
+        "email": "ashraf@gmail.com",
+        "role":"Buyer",
+        "status": "",
+        "photoUrl":"https://ibb.co/dQRf05N"
+     
+    
+    }
+
+    
+]

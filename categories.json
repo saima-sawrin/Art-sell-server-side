@@ -1,0 +1,56 @@
+[
+    {
+        "cid": "01",
+        "title": "Oil Painting",
+        "image": "https://i.ibb.co/rygRcbB/Oil-Paintings.jpg"
+        
+    },
+    {
+        "service_id": "02",
+        "title": "Calligraphy",
+        "image": "https://i.ibb.co/xX84WFy/Calligraphy.jpg",
+        "products":[
+            {"p_id":"s01", 
+             "pName":"Samsung Galaxy S22+",
+            "pImg":"https://mygalaxy.fdl.com.bd/assets/img/s22+/main.png",
+             "location":"New market,Chittagong",
+            "resalePrice":"98000",
+               "OriginalPrice":"143000",
+               "Use":"1yr"
+
+            },
+            {"p_id":"s02", 
+             "pName":"Galaxy M33 5G",
+            "pImg":"https://mygalaxy.fdl.com.bd/assets/img/m33/main.png",
+             "location":"Dhanmondi,Dhaka",
+            "resalePrice":"22000",
+               "OriginalPrice":"30000",
+               "Use":"8month"
+
+            }
+        ]
+       
+    },
+    {
+        "cid": "02",
+        "title": "Terracotta ",
+        "image": "https://i.ibb.co/8YyvTRV/terracotta.jpgp"
+        
+        
+    } , 
+    {
+        "cid": "03",
+        "title": "Photo Frame",
+        "image": "https://i.ibb.co/sQVJrdy/frame1.jpg"
+        
+    }  ,
+    {
+        "cid": "04",
+        "title": "Calligraphy",
+        "image": "https://i.ibb.co/xX84WFy/Calligraphy.jpg"
+        
+    }  
+   
+]
+
+
